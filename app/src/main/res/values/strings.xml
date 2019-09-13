@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">CBT Aqilah 4</string>
+    <string name="btn_lanjutkan">Next</string>
+    <string name="hint_name">Enter IP address/Domain</string>
+    <string name="err_msg_name">Form IP address/Domain cannot be empty</string>
+    <string name="tentang">About</string>
+    <string name="keluar">Keluar</string>
+</resources>
